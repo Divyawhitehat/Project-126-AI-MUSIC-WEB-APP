@@ -1,0 +1,27 @@
+.heading
+{
+    font-size: 25px;
+    width: 100%;
+    margin: 0px;
+}
+
+#heading_div
+{
+    width: 2000px;
+}
+
+.note
+{
+    font-size: 15px;
+    color: black;
+}
+
+body
+{
+    background-size:cover;
+}
+
+.btn_song
+{
+    border-radius: 5px;
+}
